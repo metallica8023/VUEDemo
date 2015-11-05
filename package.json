@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/metallica8023/VUEDemo/issues"
   },
-  "homepage": "https://github.com/metallica8023/VUEDemo"
+  "homepage": "https://github.com/metallica8023/VUEDemo",
+  "devDependencies": {
+    "vue": "^0.12.15"
+  }
 }
